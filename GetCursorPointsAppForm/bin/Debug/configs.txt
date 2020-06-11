@@ -1,0 +1,1 @@
+{"path":"E:/FiveLive/FiveLive.exe","waitLauncher":15,"waitGame":120,"login":"DimitryGreezzy","password":"Administrator12a","relaunchTime":"2020-06-11T23:49:00"}

@@ -1,0 +1,12 @@
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\bin\Debug\GetCursorPointsAppForm.exe.config
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\bin\Debug\GetCursorPointsAppForm.exe
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\bin\Debug\GetCursorPointsAppForm.pdb
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.csprojAssemblyReference.cache
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.Form1.resources
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.Properties.Resources.resources
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.csproj.GenerateResource.cache
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.exe
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.pdb
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ddgam\source\repos\GetCursorPointsAppForm\GetCursorPointsAppForm\obj\Debug\GetCursorPointsAppForm.csproj.CopyComplete
